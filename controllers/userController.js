@@ -60,7 +60,7 @@ module.exports = {
                 if (!user) {
                     return res.status(404).json({ message: 'User not found :(' });
                 }
-                // bonus: delete thoughts associated with user
+                // bonus: delete all thoughts associated with user
                 return Thought.deleteMany({ _id: { $in: user.thoughts } 
                 })
                 .then (() => {
