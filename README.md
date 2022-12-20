@@ -13,8 +13,6 @@ Install dependencies with the following command:
 npm i
 ```
 
-Run routes in insomnia, as shown here:
-![Screenshot](./images/screenshot.png)
 ## Usage
 
 After installing dependencies, invoke the application using:
@@ -22,6 +20,8 @@ After installing dependencies, invoke the application using:
 npm start
 ```
 
+Run routes in insomnia, as shown here:
+![Screenshot](./images/screenshot.png)
 ## Technology
 
 - Javascript
