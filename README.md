@@ -4,7 +4,7 @@ video walk-through: https://drive.google.com/file/d/1GUfmwpt1mGi9OOci4j7OBxPBImV
 
 ## Description
 
-This command-line application is a social network API that allows users to share thoughts, react to friends' thoughts, and create a friend list. 
+This back-end application is a social network API that allows users to share thoughts, react to friends' thoughts, and create a friend list. 
 
 ## Installation
 
