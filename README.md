@@ -1,6 +1,6 @@
 # Social-Network-API
 
-https://drive.google.com/file/d/1GUfmwpt1mGi9OOci4j7OBxPBImVpxPK8/view
+video walk-through: https://drive.google.com/file/d/1GUfmwpt1mGi9OOci4j7OBxPBImVpxPK8/view
 
 ## Description
 
@@ -20,3 +20,11 @@ After installing dependencies, invoke the application using:
 npm start
 ```
 
+## Technology
+
+- Javascript
+- Node.js
+- Express.js
+- Moment.js
+- MongoDB
+- Mongoose
