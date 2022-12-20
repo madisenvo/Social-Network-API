@@ -1,4 +1,4 @@
-# Penny for Your Thoughts: Social Network API
+# Penny for Your Thoughts - Social Network API
 
 video walk-through: https://drive.google.com/file/d/1GUfmwpt1mGi9OOci4j7OBxPBImVpxPK8/view
 
